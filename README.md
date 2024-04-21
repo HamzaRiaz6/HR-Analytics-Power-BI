@@ -23,4 +23,3 @@ Task: The dataset provided contains HR Analytics of a specific company. The obje
 
 Select the most appropriate visualization types, ensureing to process and clean the data if needed, and format the final dashboard in an effective manner.
 
-Pictures are attached to show how the dashboard looks like. Moreover PBI file can be downloaded to get further insights from HR data.
